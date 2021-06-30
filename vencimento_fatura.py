@@ -1,0 +1,6 @@
+namClnt = input('Digite o nome do cliente: ')
+daypay = input('Digite o dia de vencimento: ')
+monthpay = input('Digite o mês de vencimento: ')
+countpay = input('Digite o valor da fatura: ')
+print('Olá,', namClnt)
+print('A sua fatura com vencimento em', daypay, 'de', monthpay, 'no valor de R$', countpay, 'está fechada.')
