@@ -3,7 +3,7 @@
 This repo presents basic concepts on programming using Python:
 
 * variables
-* data type
+* data types
 * if...else
 * while
 * funtions
