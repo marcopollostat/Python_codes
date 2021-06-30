@@ -6,9 +6,9 @@ This repo presents basic concepts on programming using Python:
 * data types
 * if...else
 * while
-* funtions
-* debbuger using Idle
-* depuração e refatoração
+* functions
+* debbuger using Idle - (depuração)
+* refatoração
 * nested repetions
 * lists and more about lists
 
