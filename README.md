@@ -11,5 +11,6 @@ This repo presents basic concepts on programming using Python:
 * refatoração
 * nested repetions
 * lists and more about lists
+* Automated tests (good practices)
 
 In general, the code chunks contains above concepts applied to elemental algebra, arithmetics, computing roots of 2nd degree functions, binomial coefficients, factorial, all of them using good practices and debugging.
